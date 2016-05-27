@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_pin_drop_24dp"
+        android:title="@string/action_refresh"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_random"
+        android:icon="@drawable/ic_explore_24dp"
+        android:title="@string/action_random"
+        app:showAsAction="always"/>
+
+
+    <item android:id="@+id/action_facebook"
+        android:icon="@drawable/ic_person_24dp"
+        android:title="@string/accounts"
+        app:showAsAction="always"/>
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+
+
+
+</menu>

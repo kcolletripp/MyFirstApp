@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_key_server">AIzaSyDJwXX2tQ1OuiKVo73I0_zqYILNMIBoPLQ</string>
+    <string name="facebook_app_id">1045309848874766</string> <!--facebook id-->
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="accounts">Facebook</string>
+    <string name ="action_random">Random</string>
+    <string name ="settings_food">bakery|bar|cafe|restaurant|</string>
+    <string name ="settings_entertainment">amusement_park|aquarium|art_gallery|bowling_alley|casino|movie_theater|museum|night_club|park|spa|hair_care|stadium|zoo|</string>
+    <string name ="settings_shopping">bicycle_store|book_store|beauty_salon|clothing_store|department_store|electronics_store|florist|furniture_store|hardware_store|home_goods_store|jewelry_store|liquor_store|movie_rental|pet_store|shoe_store|shopping_mall</string>
+</resources>

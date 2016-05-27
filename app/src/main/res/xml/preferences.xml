@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Places Settings"
+        android:key="pref_places">
+
+        <CheckBoxPreference
+            android:key="set_food"
+            android:title="Food"
+            android:defaultValue="true" />
+
+        <CheckBoxPreference
+            android:key="set_entertainment"
+            android:title="Entertainment"
+            android:defaultValue="true" />
+
+        <CheckBoxPreference
+            android:key="set_shopping"
+            android:title="Shopping"
+            android:defaultValue="true" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
